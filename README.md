@@ -1,2 +1,2 @@
 # info2180-lab1
-This lab i for Bradley Henry
+This lab 1 for Bradley Henry
